@@ -1,0 +1,46 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+}
+
+.hero-heading {
+  color: yellow;
+}
+
+.genre-btn {
+  margin: 1rem;
+  background-color: yellow;
+  width: 7rem;
+  height: 3rem;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  outline: none;
+}
+
+.genre-list {
+  list-style: none;
+}
+
+.genre-list-item {
+  color: yellow;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid yellow;
+  border-radius: 10px;
+  width: 50%;
+}
+
+.showName {
+  padding-top: 1rem;
+  font-size: 1.2rem;
+}
+
+.rating {
+  font-size: small;
+  padding: 1rem;
+}
