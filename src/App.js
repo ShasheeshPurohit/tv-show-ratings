@@ -49,6 +49,7 @@ export default function App() {
     <div className="App">
       <h1 className="hero-heading">🎭 TV Shows</h1>
       <h2>Click on the genres to get ratings of various tv shows:</h2>
+      <hr />
       <div>
         {showList.map((genre) => {
           return (
