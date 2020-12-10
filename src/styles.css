@@ -38,6 +38,12 @@ h2 {
   width: 50%;
 }
 
+.show-thumbnail {
+  margin: 1rem;
+  width: 10rem;
+  height: auto;
+}
+
 .showName {
   padding-top: 1rem;
   font-size: 1.2rem;
